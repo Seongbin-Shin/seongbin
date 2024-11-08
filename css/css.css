@@ -1,0 +1,66 @@
+body {
+
+font-family: 'lobster', cursive;
+
+}
+
+
+
+header{
+
+background-color: grey;
+color: fff;
+padding: 10px;
+text-align: center;
+
+}
+
+nav{
+
+background-color:#777777;
+color: #fff;
+padding: 10px;
+text-align: center;
+
+}
+
+nav a{
+
+color: #fff;
+text-decoration: none;
+margin: 0 10px;
+
+
+}
+
+section{
+
+padding: 50px;
+text-align: center;
+
+}
+
+footer{
+  
+background-color: #777777;
+color: #fff;
+text-align: center;
+position: fixed;
+bottom: 0;
+width: 100;
+}
+
+  ::-webkit-scrollbar {
+    width: 12px;
+    background-color: rgb(255, 255, 255);
+  }
+  
+  ::-webkit-scrollbar-thumb {
+    background: linear-gradient(transparent, #616161);
+    border-radius: 6px;
+    border-radius: 20px;
+  }
+  
+  ::-webkit-scrollbar-thumb:hover {
+    background: linear-gradient(transparent, #00c6ff, transparent);
+  }
